@@ -1,7 +1,5 @@
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Hey!+I'm+Ramesh+👋;I'm+a+Gamer+🎮;Building+%26+Inventing+in+Coding+💻" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vcenter=true&width=550&lines=Hey!+I'm+Ramesh+🎮;Gamer+%26+Aspiring+Developer+💻;I+love+building+%26+inventing+new+things!;In+the+coding+world!🚀" alt="Typing SVG" />
+  </a>
 </h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" /> <b>Gamer by Heart | Developer by Passion</b>
-</p>
